@@ -10,7 +10,7 @@ The content follows a strict source hierarchy: Primary professional record, GitH
 
 ## Technology
 
-The website uses semantic HTML5, CSS3, and vanilla JavaScript. It has no build step or runtime dependency and is suitable for GitHub Pages. Google Fonts are loaded from the web for Manrope and DM Mono; the layout remains readable with system fallbacks if the font request is unavailable.
+The website uses semantic HTML5, CSS3, and JavaScript. It has no build step or runtime dependency and is suitable for GitHub Pages. Google Fonts are loaded from the web for Manrope and DM Mono; the layout remains readable with system fallbacks if the font request is unavailable.
 
 ## Features
 
