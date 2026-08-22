@@ -1,6 +1,6 @@
 # Shahriar Islam — Portfolio
 
-A recruiter-focused static portfolio for Shahriar Islam, positioned across **data and business analytics, MIS and business systems, automation, and project/product management**.
+A static portfolio of Shahriar Islam, positioned across **data and business analytics, MIS and business systems, automation, and project/product management**.
 
 ## Purpose
 
