@@ -4,9 +4,9 @@ A static portfolio of Shahriar Islam, positioned across **data and business anal
 
 ## Purpose
 
-The site turns a CV and selected public GitHub evidence into a concise professional narrative. It is intentionally designed for recruiters, hiring managers, and business leaders who need to understand the candidate’s role, business context, technical approach, and verified outcomes quickly.
+The site is a concise professional narrative. It is intentionally designed for exposer and someone who need to understand the candidate’s role, business context, technical approach, and verified outcomes quickly.
 
-The content follows a strict source hierarchy: the CV is the primary professional record, GitHub is used for technical and project evidence, and LinkedIn is linked as a professional destination. No metrics, employers, dates, responsibilities, technologies, or outcomes are added unless supported by the available sources.
+The content follows a strict source hierarchy: the C primary professional record, GitHub is used for technical and project evidence, and LinkedIn is linked as a professional destination, responsibilities, technologies, or outcomes are added unless supported by the available sources.
 
 ## Technology
 
